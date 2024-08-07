@@ -1,12 +1,14 @@
 
 TownTales is a web application designed to bring community stories and events to life. It allows users to interact with posts, share their own stories, and stay updated with local happenings.
 
-Features
-User Authentication: Secure login and registration for users.
-Feed Posts: View, create, and manage posts.
-Real-time Updates: Get updates in real-time as new posts are added.
-Search and Filter: Easily find posts based on keywords and categories.
-Responsive Design: Optimized for desktop and mobile devices.
+Features 
+1.User Authentication: Secure login and registration for users.
+2.Feed Posts: View, create, and manage posts.
+3.Real-time Updates: Get updates in real-time as new posts are added.
+4.Search and Filter: Easily find posts based on keywords and categories.
+4.Responsive Design: Optimized for desktop and mobile devices.
+6.travel itinerary using open api
+7.map api
 
 
 
