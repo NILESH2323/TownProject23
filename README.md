@@ -13,14 +13,12 @@ Features
 
 
 
-
 Fig 1: Workflow of Application
 ![image](https://github.com/user-attachments/assets/bb23298f-6b61-4daf-882f-01d1d091760c)
 
 
  
-Fig 2: A sequence diagram illustrating the Sign-up and Login processes
-![image](https://github.com/user-attachments/assets/8a368a67-4c77-412d-9c5a-b1f875244643)
+Fig 2: A sequence diagram illustrating the Sign-up and Login processes![image](https://github.com/user-attachments/assets/8a368a67-4c77-412d-9c5a-b1f875244643)
 
 
 
